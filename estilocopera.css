@@ -4,7 +4,8 @@
 }
 
 body {
-    background: gray;
+    background: url(img/fondo.jpg);
+    background-size: 25%;
     padding: 20px;
 }
 
@@ -29,6 +30,13 @@ header {
     margin-left: 10px;
     animation: 1s entradalogo 1;
 }
+
+/*#banner{
+    max-width: 1000px;
+    min-width: 250px;
+    background: #444;
+    margin: 0 auto;
+}*/
 
 /* Primera parte menu */
 #menu{
@@ -76,11 +84,9 @@ header {
 
 }
 
-#contenido h1{
+.titulo{
     text-align: center;
     margin-bottom: 20px;
-    font-size: 35;
-
 }
 
 #contenido p {
@@ -90,26 +96,9 @@ header {
     text-align: justify;
 }
 
-.resenas h2{
-    text-align: center;
-    /*margin-bottom: 20px;*/
-    
-}
-
-.img3{
-    float:left;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    width: 300px;
-}
 
 
-
-
-
-
-
-
+/* Fin de página*/
 footer {
     max-width: 1000px;
     min-height: 130px;

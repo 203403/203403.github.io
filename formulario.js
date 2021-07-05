@@ -4,7 +4,6 @@ function captura(){
     if (correo==""){
         alert("El correo es necesario")
     }
-    alert("Para ver si funciona")
 
     var resena=document.getElementById("resena").value;
     console.log("Resena: " + resena)

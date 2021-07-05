@@ -13,5 +13,4 @@ function captura(){
 		console.log("Resena: " + resena)
 	}
     alert("Gracias por enviar su resena, la revisaremos y le enviaremos una respuesta")
-
 }

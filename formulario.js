@@ -1,6 +1,5 @@
 function captura(){
     var correo=document.getElementById("correo").value;
-
     if (correo==""){
         alert("El correo es necesario")
     }else{

@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/203403/static/css/main.fb86993c.chunk.css",
-    "main.js": "/203403/static/js/main.9be66c1f.chunk.js",
-    "main.js.map": "/203403/static/js/main.9be66c1f.chunk.js.map",
-    "runtime-main.js": "/203403/static/js/runtime-main.5d0451ee.js",
-    "runtime-main.js.map": "/203403/static/js/runtime-main.5d0451ee.js.map",
-    "static/js/2.c93b07e3.chunk.js": "/203403/static/js/2.c93b07e3.chunk.js",
-    "static/js/2.c93b07e3.chunk.js.map": "/203403/static/js/2.c93b07e3.chunk.js.map",
-    "static/js/3.1b6ba51a.chunk.js": "/203403/static/js/3.1b6ba51a.chunk.js",
-    "static/js/3.1b6ba51a.chunk.js.map": "/203403/static/js/3.1b6ba51a.chunk.js.map",
-    "index.html": "/203403/index.html",
-    "static/css/main.fb86993c.chunk.css.map": "/203403/static/css/main.fb86993c.chunk.css.map",
-    "static/js/2.c93b07e3.chunk.js.LICENSE.txt": "/203403/static/js/2.c93b07e3.chunk.js.LICENSE.txt",
-    "static/media/banner.ec22b2b8.png": "/203403/static/media/banner.ec22b2b8.png",
-    "static/media/index.css": "/203403/static/media/fondo.6eeb1f6b.gif",
-    "static/media/gidCod.9f81416c.gif": "/203403/static/media/gidCod.9f81416c.gif"
+    "main.css": "/203403.github.io/static/css/main.f4e9595c.chunk.css",
+    "main.js": "/203403.github.io/static/js/main.9be66c1f.chunk.js",
+    "main.js.map": "/203403.github.io/static/js/main.9be66c1f.chunk.js.map",
+    "runtime-main.js": "/203403.github.io/static/js/runtime-main.43458cbb.js",
+    "runtime-main.js.map": "/203403.github.io/static/js/runtime-main.43458cbb.js.map",
+    "static/js/2.c93b07e3.chunk.js": "/203403.github.io/static/js/2.c93b07e3.chunk.js",
+    "static/js/2.c93b07e3.chunk.js.map": "/203403.github.io/static/js/2.c93b07e3.chunk.js.map",
+    "static/js/3.1b6ba51a.chunk.js": "/203403.github.io/static/js/3.1b6ba51a.chunk.js",
+    "static/js/3.1b6ba51a.chunk.js.map": "/203403.github.io/static/js/3.1b6ba51a.chunk.js.map",
+    "index.html": "/203403.github.io/index.html",
+    "static/css/main.f4e9595c.chunk.css.map": "/203403.github.io/static/css/main.f4e9595c.chunk.css.map",
+    "static/js/2.c93b07e3.chunk.js.LICENSE.txt": "/203403.github.io/static/js/2.c93b07e3.chunk.js.LICENSE.txt",
+    "static/media/banner.ec22b2b8.png": "/203403.github.io/static/media/banner.ec22b2b8.png",
+    "static/media/index.css": "/203403.github.io/static/media/fondo.6eeb1f6b.gif",
+    "static/media/gidCod.9f81416c.gif": "/203403.github.io/static/media/gidCod.9f81416c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d0451ee.js",
+    "static/js/runtime-main.43458cbb.js",
     "static/js/2.c93b07e3.chunk.js",
-    "static/css/main.fb86993c.chunk.css",
+    "static/css/main.f4e9595c.chunk.css",
     "static/js/main.9be66c1f.chunk.js"
   ]
 }
